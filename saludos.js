@@ -1,0 +1,1 @@
+var saludo1 = "saludo 1";
